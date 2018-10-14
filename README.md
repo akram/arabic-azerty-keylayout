@@ -1,4 +1,4 @@
-###A Mac Keylayout for Arabic language which maps latin sounds to their Arabic equivalent
+### A Mac Keylayout for Arabic language which maps latin sounds to their Arabic equivalent
 
 To install it simply copy the "ArabicAzerty.keylayout" and "ArabicAzerty.icns" files in /System/Library/Keyboard Layouts/ directory.
 
