@@ -2,8 +2,9 @@
 
 To install it simply copy the "ArabicAzerty.keylayout" and "ArabicAzerty.icns" files in /System/Library/Keyboard Layouts/ directory.
 
-    wget https://raw.githubusercontent.com/akram/arabic-azerty-keylayout/master/ArabicAzerty.keylayout
-    https://raw.githubusercontent.com/akram/arabic-azerty-keylayout/master/ArabicAzerty.icns
+    REPO=https://raw.githubusercontent.com/akram/arabic-azerty-keylayout/master/
+    wget $REPO/ArabicAzerty.keylayout
+    wget $REPO/ArabicAzerty.icns
     sudo cp "ArabicAzerty.*"  /Library/Keyboard Layouts/
 
 Then restart finder (Force quit, then Relaunch on Finder process).
